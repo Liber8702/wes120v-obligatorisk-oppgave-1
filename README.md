@@ -8,3 +8,11 @@ node.js pnpm må være installert
 Installer prosjektets avhengigheter med: 
 
 pnpm install
+
+## Oppstart
+
+start serveren med:
+
+pnpm dev
+
+du kan nå åpne siden på adressen Vite viser deg
